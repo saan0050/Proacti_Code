@@ -1,0 +1,6 @@
+{
+  "name": "ProactiCode - Quality-Aware AI Code Assistant",
+  "description": "Quality-Aware and Technical Debt Prediction & Prevention AI Code Assistant designed to eliminate the long-term complexity and quality deterioration found in Cursor AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
