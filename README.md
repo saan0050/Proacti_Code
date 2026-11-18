@@ -1,6 +1,7 @@
 # ProactiCode – AI-Powered Code Quality & Technical Debt Analyzer
 
-**A Quality-Aware AI Code Assistant for Code Analysis, Risk Assessment, and Automated Refactoring.**
+**A Quality-Aware AI Code Assistant for Code Analysis, Risk Assessment, and Automated Refactoring.
+Click to access the websit: https://saan0050.github.io/Proacti_Code/ **
 
 ## Project Overview
 
